@@ -1,0 +1,8 @@
+Step 01: Install all the dependencies used in server
+Step 02: Go to .env file and define all the correct values to it
+Step 03: To get the dialogflow project id, goto dialogflow console and click on the settings icon on the left side of the page. There you can find the project id.
+
+Step 04: to get started, create a business account on instagram, go to edit profile, paste the url of the live link of the server in the website option
+Step 05: to get the url of the live server, you need to host the server.js file on a server. You can use any server hosting platform.
+Step 06: After hosting the server.js file, copy the url of the live server and paste it in the website option in the edit profile section of the instagram business account.
+Step 08: That is it for the project, and it should work correctly.
